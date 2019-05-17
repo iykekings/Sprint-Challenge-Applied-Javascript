@@ -8,7 +8,7 @@ class Carousel {
     this.activate();
     this.rightButton.addEventListener('click', this.slideRight.bind(this));
     this.leftButton.addEventListener('click', this.slideLeft.bind(this));
-    setInterval(this.slideRight.bind(this), 2000);
+    setInterval(this.slideRight.bind(this), 3000);
   }
 
   activate() {
