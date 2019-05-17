@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    > Stands for Document Object Model, the interface that JavaScript uses to interact with HTML
+
 2. What is an event?
+
+    > An event is an activity on the HTML page that could be handled or listened to by JavaScript
 
 3. What is an event listener?
 
+    > The event listener interface represents an object that can handle an event dispatched by an EventTarget object
+
 4. Why would we convert a NodeList into an Array?
 
+    > To be able to use array methods on the NodeItems
+
 5. What is a component?
+
+    > A component is a reusable and self-sufficient part of a webpage, that has its logic and styles coupled within it.
 
 ### Git Set up
 
